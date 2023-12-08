@@ -34,7 +34,7 @@ We are using Hybrid Framework to Automate the Test cases
 
 #### Project URL 
 - https://restful-booker.herokuapp.com/apidoc/index.html
-- CRUD OPeration
+- CRUD Operation
   - GET Booking
   - POST Create Booking
   - PUT Update Booking
