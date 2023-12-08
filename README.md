@@ -1,4 +1,4 @@
-# API Automation with Rest Assured ATB 4X
+# API Automation with Rest Assured 
 - Author : Aishwarya Meshram
 - Email : aish.meshram03@gmail.com
 
