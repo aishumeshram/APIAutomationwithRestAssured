@@ -1,6 +1,6 @@
 # API Automation with Rest Assured ATB 4X
-- Author : Pramod Dutta
-- Email : contact@thetestingacademy.com
+- Author : Aishwarya Meshram
+- Email : aish.meshram03@gmail.com
 
 ### Tech stack used
 
